@@ -41,6 +41,7 @@ The trained logistic regression model predicts:
 | `scaler.pkl` | StandardScaler for input preprocessing |
 | `feature_columns.pkl` | Feature column names for input alignment |
 | `requirements.txt` | Required Python libraries |
+| `heart_disease_uci.csv` | Dataset used for model training |
 
 ---
 
