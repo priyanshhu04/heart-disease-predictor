@@ -14,6 +14,8 @@ Submission for: Week‑7 Assignment
 
 **[🔗 Click here to use the app](https://heart-disease-predictor-app-csi7.streamlit.app/)**  
 
+![App Screenshot](app-screenshot.png)
+
 ---
 
 ## How It Works
