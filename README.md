@@ -5,8 +5,7 @@ This web app uses a trained machine learning model to predict the risk of heart 
 Powered by logistic regression and built with [Streamlit](https://streamlit.io), the app is interactive, intuitive, and provides real-time risk estimates.
 
 Author: Priyanshu  
-Date: July 2025  
-Submission for: Week‑7 Assignment
+Date: July 2025
 
 ---
 
